@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Virtual Environment
+venv/
+env/
+
+# Build folders
+build/
+dist/
+
+# Output files
+output/docx/*
+output/pdf/*
+output/resources/*
+
+# OS
+.DS_Store
+Thumbs.db
