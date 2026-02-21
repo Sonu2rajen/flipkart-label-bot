@@ -26,23 +26,7 @@ Exports both DOCX and PDF files
 
 ### 🗂 Project Structure ###
 
-flipkart-label-bot/
-│
-├── src/
-│   ├── main.py
-│   ├── excel_reader.py
-│   ├── word_com_filler.py
-│   ├── barcode_generator.py
-│
-├── template/
-│   └── Flipkart.docx
-│
-├── output/
-│   ├── docx/
-│   └── pdf/
-│
-├── requirements.txt
-└── README.md
+<img width="243" height="326" alt="image" src="https://github.com/user-attachments/assets/e2260a77-b516-41b8-bc9a-e83c8f052a88" />
 
 ### 📊 Required Excel Columns ###
 
@@ -109,6 +93,16 @@ Windows OS
 Microsoft Word installed
 Microsoft Excel installed
 Python 3.10+
+
+### OUTPUT ###
+
+#### TERMINAL RUN ####
+
+<img width="562" height="233" alt="image" src="https://github.com/user-attachments/assets/88ead6e0-d1ca-4118-9e25-dda8cc9a8109" />
+
+#### pdf generated ####
+
+<img width="532" height="753" alt="image" src="https://github.com/user-attachments/assets/97774a97-e256-44cf-983a-e8cbfc58ccf1" />
 
 ### 🧠 Architecture ###
 
